@@ -1,5 +1,7 @@
 # wavelet-based-ecg-compression
-  
+ 
+The project was completed under the E&ICT Academy of IIT Guwahati setup by Government of India under MeiTY (Ministry of Electronics & Information Technology) & under the mentorship and supervision of Dr.Gaurav Trivedi, IIT Guwahati & Dr. Sandeep Raj, IIIT Bhagalpur. 
+ 
 This project implements ECG compression using wavelet transforms and Variable Run-Length Encoding. This code is written in Python for ease of understanding and usage, but the algorithm is efficient enough that it can be written in C and run on an embedded system with reasonable memory and CPU resources.  
   
 The motivation of this algorithm is to solve the problem of saving or wirelessly transmitting ECG data, which tends to have a high sampling rate. By compressing the signal, more data can be stored or wirelessly transferred using less power.    
